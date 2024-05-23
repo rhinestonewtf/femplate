@@ -44,7 +44,7 @@
   "homepage": "https://github.com/rhinestonewtf/femplate#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rhinestonewtf/femplate.git"
+    "url": "git+https://github.com/rhinestonewtf/femplate.git"
   },
   "bugs": {
     "url": "https://github.com/rhinestonewtf/femplate/issues"
