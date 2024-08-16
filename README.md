@@ -1,6 +1,6 @@
 # Femplate
 
-**A Foundry template for Rhinestone Projects**
+**A Foundry template for Rhinestone projects**
 
 ## Using this repo
 
